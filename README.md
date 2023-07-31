@@ -43,7 +43,7 @@ pry(main)> visitor1.preferences
 
 pry(main)> visitor1.add_preference(:gentle)
 
-pry(main)> visitor1.add_preference(:thrilling)
+pry(main)> visitor1.add_preference(:gentle)
 
 pry(main)> visitor1.preferences
 #=> [:gentle, :thrilling]
